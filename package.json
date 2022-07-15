@@ -1,6 +1,6 @@
 {
   "name": "nodefive",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,8 +26,21 @@
     "typeorm": "^0.2.34",
     "typescript": "^4.3.2"
   },
-  "author": "",
+  "author": "Pratibha",
   "license": "ISC",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratibhabharti1996/NodeJs_gfg.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Project"
+  ],
+  "bugs": {
+    "url": "https://github.com/Pratibhabharti1996/NodeJs_gfg/issues"
+  },
+  "homepage": "https://github.com/Pratibhabharti1996/NodeJs_gfg#readme",
   "description": ""
 }
